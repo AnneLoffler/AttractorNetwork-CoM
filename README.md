@@ -1,2 +1,2 @@
 # AttractorNetwork-CoM
-Code for an Attractor Network Model of Changes of Mind (CoM).
+Code for an Attractor Neural Network (ANN) of Changes of Mind (CoM).
