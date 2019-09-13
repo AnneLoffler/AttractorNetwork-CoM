@@ -1,6 +1,6 @@
 # AttractorNetwork-CoM
 Code for Attractor Network Model (ANM) of Changes of Mind (CoM). 
-> Löffler, Sylaidi, Zafeirios & Haggard (2019). Two Ways to Change Your Mind: Effects of Intentional Strength and Motor Costs on Changes of Intention. *Submitted for publication)*.
+> Löffler, Sylaidi, Zafeirios & Haggard (2019). *Two Ways to Change Your Mind: Effects of Intentional Strength and Motor Costs on Changes of Intention.* Submitted for publication.
 
 
 ## Repository description
