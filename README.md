@@ -4,8 +4,10 @@ This project contains the full code for an Attractor Network Model (ANM) simulat
 
 
 ## Code versions
-The model implementation is available in both Python and Matlab. 
-The 'Python' folder contains all the code required to perform model optimization. 
-The 'Matlab' folder contains code that performs single-trial simulations and plots model outcomes.
+The model is implemented in both Python and Matlab. 
+
+  * The **'Python'** folder contains all code required to implement the model (**_ANM.py_**) and perform model optimization based on Powell's methods (**_fmin_powell.py_**). 
+
+  * The **'Matlab'** folder contains code that simulates a specified number of trials (**_ANM_runSim.m_**) and plots single-trial model outcomes (**_plotTrials.m_**).
 
 
