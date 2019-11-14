@@ -1,6 +1,6 @@
 # AttractorNetwork-CoM
 This project contains the full code for an Attractor Network Model (ANM) simulating Changes of Mind (CoM) in voluntary action, as reported in:
-> Löffler, Sylaidi, Zafeirios & Haggard (2019). *Two Ways to Change Your Mind: Effects of Intentional Strength and Motor Costs on Changes of Intention.* Submitted for publication.
+> Löffler, Sylaidi, Fountas & Haggard (2019). *Two Ways to Change Your Mind: Effects of Intentional Strength and Motor Costs on Changes of Intention.* Submitted for publication.
 
 
 ### Code versions
