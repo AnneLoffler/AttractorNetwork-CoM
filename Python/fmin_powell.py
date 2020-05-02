@@ -3,7 +3,7 @@ Local optimization script.
 """
 
 import numpy as np
-from ANN import ANN
+from ANM import ANN
 
 def f(X): # coh, col, hierarchy, W_sensory, W_sensory_auto, W_intentional, W_cost, W_inhibit):
     s1,s2,s3,s4,s5,s6,s7,s8,s9 = ANN(X, n_trials=10000)
