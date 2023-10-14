@@ -1,8 +1,6 @@
 # AttractorNetwork-CoM
 This project contains the full code for an Attractor Network Model (ANM) simulating Changes of Mind (CoM) in voluntary action, as reported in:
-> Löffler, Sylaidi, Fountas & Haggard (2019). *Two Ways to Change Your Mind: Effects of Intentional Strength and Motor Costs on Changes of Intention.* Submitted for publication.
-
-Preprint available on bioRxiv: https://www.biorxiv.org/content/10.1101/841882v1
+> Löffler, Sylaidi, Fountas & Haggard (2019). *"[A hierarchical attractor network model of perceptual versus intentional decision updates.](https://www.nature.com/articles/s41467-021-22017-2)"* Nature Communications 12.1 (2021): 2020.
 
 ### Code versions
 The model is implemented in both Python and Matlab. 
